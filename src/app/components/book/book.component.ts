@@ -9,7 +9,7 @@ import {BookView} from "../../models/book-view";
 export class BookComponent implements OnInit {
 
   @Input()
-  bookView?: BookView;
+  bookView!: BookView;
 
   constructor() { }
 

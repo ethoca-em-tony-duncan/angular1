@@ -1,0 +1,45 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "War and Peace",
+        "isbn": "1400079985",
+        "stars": 3.5,
+        "authorIds": [100, 101]
+      },
+      {
+        "id": 2,
+        "title": "Great Expectations",
+        "stars": 2.0,
+        "authorIds": [103]
+      },
+      {
+        "id": 3,
+        "title": "Moby Dick",
+        "isbn": "0451532287",
+        "stars": 2.5,
+        "authorIds": [102]
+      },
+      {
+        "id": 4,
+        "title": "Star Wars: Heir to the Empire",
+        "isbn": "978-0553296129",
+        "stars": 3.7,
+        "authorIds": [104]
+      }
+    ],
+    "authors": [
+      {
+        "id": 100,
+        "name": "Leo Tolstoy"
+      },
+      {
+        "id": 101,
+        "name": "Richard Pevear"
+      },
+      {
+        "id": 102,
+        "name": "And more authors...."
+      }
+    ]
+  }
